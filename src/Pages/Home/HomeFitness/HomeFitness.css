@@ -1,0 +1,11 @@
+.fitness-title{
+    font-size: 50px;
+    color: red;
+    font-weight: 900;
+   box-shadow: 5px 5px 15px 3px gray;
+   
+}
+.fitness-title:hover{
+    background-color: red;
+    color: white;
+}

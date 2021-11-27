@@ -1,0 +1,13 @@
+.login-background{
+    background-image: url('https://images.pexels.com/photos/7148953/pexels-photo-7148953.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+/* .login-body{
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+} */

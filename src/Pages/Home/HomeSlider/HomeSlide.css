@@ -1,0 +1,14 @@
+.slide-under-text{
+    border-left: 4px solid gray;
+    border-right: 4px solid gray;
+    border-bottom: 4px solid gray;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.slide-under-text:hover{
+    /* background-color: rgb(4, 56, 212); */
+    background-color: black;
+    color: white;
+    transition: 0.3s ease-in;
+}

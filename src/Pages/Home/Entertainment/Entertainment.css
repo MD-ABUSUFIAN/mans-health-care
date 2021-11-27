@@ -1,0 +1,14 @@
+.entertainment-bg{
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px 3px rgba(5, 5, 5, 0.432);
+}
+.entertainment-title{
+text-align: center;
+margin: auto;
+color: black;
+font-weight: 700;
+}
+.enterainment-img{
+    margin-left: 5px;
+    border-radius: 30px;
+}

@@ -1,0 +1,26 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+.footer-part{
+   background-color: black;
+   color: white;
+ margin: auto;
+  padding-top: 20px;
+ 
+
+}
+ul li{
+    list-style: none;
+}
+ul li:hover{
+    background-color: white;
+    border-radius: 15px;
+    color: tomato;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 3px 7px;
+    font-weight: 700;
+}

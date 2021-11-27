@@ -1,0 +1,17 @@
+.single-w{
+    font-size: 70px;
+    color: red;
+    font-weight: 900;
+    margin-top:20px ;
+}
+.banner-title{
+    
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+    color: red;
+    font-weight: 900;
+}
+.text-title{
+    justify-content: center;
+}
