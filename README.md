@@ -15,6 +15,9 @@ Man's Health Care
 Health Better Life Good.This Website is very Fantastic Service Provides and Daily Our Life Development 
 and Update this World Envarnment to Follow up Healths Condition Related All of Service Provides.
 So that Enjoy Our website and Tips Daily Growth and Life Better.
+● Implemented Users Login and Register Authentication
+● Users Login Google Authentication.
+● Private Route at first login then order/booking page Confirm Order User..
 
 
 ### Deployment
